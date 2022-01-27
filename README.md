@@ -1,19 +1,19 @@
-## sudoku-solver-visualizer
+# sudoku-solver-visualizer
 
 This is a GUI application made using Pygame
 
-# Functions:
+## Functions:
 
 1.Automatically solves the given Sudoku
 
 2.User can play the sudoku on their own
 
 
-# Algorithm used :
+## Algorithm used :
 
 Backtracking to solve the sudoku automatically
 
-#H ow to use :
+## How to use :
 
 1. press ENTER to auto solve
 
