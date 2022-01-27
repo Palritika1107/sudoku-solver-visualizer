@@ -307,5 +307,4 @@ def main():
 
 if __name__=="__main__":
     main()
-# TO DO:
-# CHECK VALIDITY OF SUDOKU GRID BEFORE SOLVING IT
+
