@@ -2,18 +2,18 @@
 
 This is a GUI application made using Pygame
 
-#Functions:
+# Functions:
 
 1.Automatically solves the given Sudoku
 
 2.User can play the sudoku on their own
 
 
-#Algorithm used :
+# Algorithm used :
 
-Backtracking to solve the sodoku automatically
+Backtracking to solve the sudoku automatically
 
-#How to use :
+#H ow to use :
 
 1. press ENTER to auto solve
 
